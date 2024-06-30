@@ -4,7 +4,7 @@ Augmented Reality (AR) adalah teknologi yang menampilkan konten digital ke dunia
 -------------------------------------------------------------------------
 **Marker**
 -----------------------------------------------------------------------
-Klik di sini untuk download marker yang digunakan--> [cardAR](assets/KartuFF.pdf)
+- Klik di sini untuk download marker yang digunakan--> [cardAR](assets/KartuFF.pdf)
 -----------------------------------------------------------------------
 **Guide**
 --------------------------------------------------------------------
