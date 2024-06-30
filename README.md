@@ -10,10 +10,10 @@ seperti gambar, video/model 3D, ke lingkungan nyata melalui perangkat seperti po
 -----------------------------------------------------------------------
 **Guide**
 --------------------------------------------------------------------
-1 Download marker yang sudah disediakan di halaman cardAR
-2 Buka halaman DemoAR dan klik "Start" untuk memulai Images Tracking
-3 Berikan izin kamera pada perangkat yang digunakan
-4 Scan marker sampai perangkat mendeteksi gambar berupa 3D
+1. Download marker yang sudah disediakan di halaman cardAR
+2. Buka halaman DemoAR dan klik "Start" untuk memulai Images Tracking
+3. Berikan izin kamera pada perangkat yang digunakan
+4. Scan marker sampai perangkat mendeteksi gambar berupa 3D
 -------------------------------------------------------------------
 **QR-Code**
 ----------------------------------------------------------------
