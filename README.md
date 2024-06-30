@@ -17,4 +17,4 @@ seperti gambar, video/model 3D, ke lingkungan nyata melalui perangkat seperti po
 -------------------------------------------------------------------
 **QR-Code**
 ----------------------------------------------------------------
-![QR Code](qr-code.png)
+![QR Code](qr_code.png) 
