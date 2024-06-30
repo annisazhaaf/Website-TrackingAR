@@ -657,22 +657,22 @@ span {
     width: 100%;
 }
 .heading {
-    margin: 0 0 50px 0;
+    margin: 0 0 20px 0;
 }
 .btn-demo {
     display: inline-block;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 } 
 .demo-video {
-    width: 50%;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
     display: block; 
 }
 .media-container {
     text-align: center;
-    margin-top: 20px; 
-    margin-bottom: 20px; 
+    margin-top: 5px; 
+    margin-bottom: 100px; 
 }
 .media-container p {
     display: inline-block;
@@ -870,15 +870,29 @@ span {
 }
 
 /* Untuk bagian about */
-@media (max-width: 708px) {
+/* Responsive styles */
+@media (max-width: 768px) {
     .about-container {
+        display: grid;
         grid-template-columns: 1fr;
+        gap: 1rem; /* Add gap between items */
+        margin: 0 1rem; /* Reduce left and right margin */
+        padding: 1rem; /* Add padding */
     }
+
+    .about-info {
+        margin: 0.5rem 0; /* Add margin to separate items vertically */
+    }
+
     .about-info h4 {
         font-size: 1.6rem;
+        margin-top: 0.5rem; /* Add top margin */
+        margin-bottom: 0.5rem; /* Add bottom margin */
     }
+
     .about-info p {
         font-size: 1.4rem;
+        margin: 0.5rem 0; /* Add top and bottom margin */
     }
 }
 
@@ -924,11 +938,15 @@ span {
     .demo-video {
         width: 100%;
     }
+    .heading {
+        font-size: 5rem;
+    }
     .media-container p {
-        font-size: 1.2rem;
+        font-size: 1.3rem;
     }
     .demo-video {
         width: 90% ;
+        margin-bottom: 15rem;
     }
 }
 
