@@ -1,6 +1,6 @@
 **Augmented Reality (AR) - Image Tracking**
 -----------------------------------------------------------------------
--Augmented Reality (AR) adalah teknologi yang menampilkan konten digital ke dunia nyata, meningkatkan persepsi dan interaksi pengguna dengan lingkungannya. Augmented Reality (AR) menyempurnakan dunia nyata dengan implementasi media digital, seperti gambar, video/model 3D, ke lingkungan nyata melalui perangkat seperti ponsel cerdas, tablet, atau kacamata AR.
+- Augmented Reality (AR) adalah teknologi yang menampilkan konten digital ke dunia nyata, meningkatkan persepsi dan interaksi pengguna dengan lingkungannya. Augmented Reality (AR) menyempurnakan dunia nyata dengan implementasi media digital, seperti gambar, video/model 3D, ke lingkungan nyata melalui perangkat seperti ponsel cerdas, tablet, atau kacamata AR.
 -------------------------------------------------------------------------
 **Marker**
 -----------------------------------------------------------------------
