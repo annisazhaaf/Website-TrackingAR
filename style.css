@@ -881,6 +881,17 @@ span {
         font-size: 1.4rem;
     }
 }
+@media (max-width: 720px) {
+    .about-container {
+        grid-template-columns: 1fr;
+    }
+    .about-info h4 {
+        font-size: 1.5rem;
+    }
+    .about-info p {
+        font-size: 1rem;
+    }
+}
 
 /* Untuk bagian card */
 @media (max-width: 768px) {
@@ -926,6 +937,9 @@ span {
     }
     .media-container p {
         font-size: 1.2rem;
+    }
+    .demo-video {
+        width: 90% ;
     }
 }
 
