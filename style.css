@@ -875,15 +875,22 @@ span {
         grid-template-columns: 1fr;
     }
     .about-info h4 {
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
     .about-info p {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
     }
-    .heading h2 span {
-    font-size: 3rem;
-    text-align: center;
-    margin: 3rem 0;
+}
+
+@media (max-width: 480px) {
+    .about {
+        padding: 10px;
+    }
+    .about-info h4 {
+        font-size: 1.4rem;
+    }
+    .about-info p {
+        font-size: 1.2rem;
     }
 }
 
