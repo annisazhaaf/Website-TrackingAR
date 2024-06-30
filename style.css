@@ -879,8 +879,9 @@ span {
     }
     .about-info p {
         font-size: 2rem;
+        left: 0;
     }
-    .heading {
+    .heading h2 {
     font-size: 4rem;
     text-align: center;
     margin: 5rem 0;
