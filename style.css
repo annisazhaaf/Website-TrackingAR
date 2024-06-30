@@ -869,31 +869,7 @@ span {
     }
 }
 
-/* Untuk bagian about 
-@media (max-width: 768px) {
-    .about-container {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 2rem; 
-        margin: 1rem; 
-        padding: 1rem; 
-    }
-    .about-info {
-        margin: 0.5rem 0; 
-        padding: 1rem; 
-    }
-    .about-info h4 {
-        font-size: 1.6rem;
-        margin-top: 0.5rem; 
-        margin-bottom: 0.5rem;
-    }
-    .about-info p {
-        font-size: 1.4rem;
-        margin: 0.5rem 0; 
-    }
-} 
-*/
-
+/* Untuk bagian about */
 @media (max-width: 768px) {
     .about-container {
         display: grid;
@@ -904,7 +880,7 @@ span {
     }
     .about-box {
         background-color: var(--main-color);
-        height: 250px;
+        height: 300px;
         border-radius: 2rem;
         cursor: pointer;
         transition: 0.3s ease;
@@ -913,7 +889,7 @@ span {
         display: flex;
         flex-direction: column;
         text-align: justify;
-        max-height: 100px;
+        max-height: 150px;
         justify-content: center;
         align-items: baseline;
         padding: 1rem;
@@ -931,7 +907,6 @@ span {
         margin: 0.5rem 2rem; 
     }
 }
-
 
 /* Untuk bagian card */
 @media (max-width: 768px) {
