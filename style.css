@@ -875,16 +875,15 @@ span {
         grid-template-columns: 1fr;
     }
     .about-info h4 {
-        font-size: 2.5rem;
+        font-size: 3rem;
     }
     .about-info p {
         font-size: 2rem;
-        left: 0;
     }
     .heading h2 {
-    font-size: 4rem;
+    font-size: 3rem;
     text-align: center;
-    margin: 5rem 0;
+    margin: 3rem 0;
     }
 }
 
