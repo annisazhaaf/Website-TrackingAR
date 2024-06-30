@@ -870,7 +870,7 @@ span {
 }
 
 /* Untuk bagian about */
-@media (max-width: 768px) {
+@media (max-width: 708px) {
     .about-container {
         grid-template-columns: 1fr;
     }
@@ -879,18 +879,6 @@ span {
     }
     .about-info p {
         font-size: 1.4rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .about {
-        padding: 10px;
-    }
-    .about-info h4 {
-        font-size: 1.4rem;
-    }
-    .about-info p {
-        font-size: 1.2rem;
     }
 }
 
