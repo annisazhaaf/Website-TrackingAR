@@ -869,7 +869,7 @@ span {
     }
 }
 
-/* Untuk bagian about */
+/* Untuk bagian about 
 @media (max-width: 768px) {
     .about-container {
         display: grid;
@@ -891,7 +891,47 @@ span {
         font-size: 1.4rem;
         margin: 0.5rem 0; 
     }
+} 
+*/
+
+@media (max-width: 768px) {
+    .about-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 3rem; 
+        margin: 1rem 1rem; 
+        padding: 0.5rem; 
+    }
+    .about-box {
+        background-color: var(--main-color);
+        height: 250px;
+        border-radius: 2rem;
+        cursor: pointer;
+        transition: 0.3s ease;
+    }
+    .about-box .about-info {
+        display: flex;
+        flex-direction: column;
+        text-align: justify;
+        max-height: 100px;
+        justify-content: center;
+        align-items: baseline;
+        padding: 1rem;
+    }  
+    .about-info {
+        margin: 0.5rem 0rem; 
+    }
+    .about-info h4 {
+        font-size: 1.6rem;
+        margin-top: 100px; 
+        margin-bottom: 0.5rem; 
+    }
+    .about-info p {
+        font-size: 1.4rem;
+        margin: 0.5rem 2rem; 
+    }
 }
+
 
 /* Untuk bagian card */
 @media (max-width: 768px) {
@@ -902,7 +942,7 @@ span {
     .card .container .bar .info span {
         font-size: 1.5rem;
     }
-}
+} */
 
 /* Untuk bagian guide */
 @media screen and (max-width: 768px) {
