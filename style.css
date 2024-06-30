@@ -861,23 +861,22 @@ span {
     .home .home-content p {
         font-size: 1.5rem;
     }
-    .home-img {
-        width: 50%;
-        margin: auto;
-        margin-top: 2rem;
-        margin-left: 2rem;
+    .home-img img {
+        width: 90%;
+        margin-top: 5rem;
+        margin-left: 1rem;
+        margin-right: 3rem;
     }
 }
 
 /* Untuk bagian about */
-/* Responsive styles */
 @media (max-width: 768px) {
     .about-container {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 1rem; /* Add gap between items */
-        margin: 0 1rem; /* Reduce left and right margin */
-        padding: 1rem; /* Add padding */
+        gap: 0.5rem; /* Add gap between items */
+        margin: 1rem 1rem; /* Reduce left and right margin */
+        padding: -5rem; /* Add padding */
     }
 
     .about-info {
@@ -892,7 +891,7 @@ span {
 
     .about-info p {
         font-size: 1.4rem;
-        margin: 0.5rem 0; /* Add top and bottom margin */
+        margin: 0.5rem 2rem; /* Add top and bottom margin */
     }
 }
 
@@ -935,18 +934,24 @@ span {
 
 /* Untuk bagian demo */
 @media (max-width: 768px) {
+    .demo .content {
+        margin: auto;
+    }
     .demo-video {
         width: 100%;
     }
     .heading {
         font-size: 5rem;
     }
+    .media-container {
+        margin: auto;
+        margin-top: 1rem;
+    }
     .media-container p {
         font-size: 1.3rem;
     }
     .demo-video {
         width: 90% ;
-        margin-bottom: 15rem;
     }
 }
 
