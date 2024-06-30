@@ -888,9 +888,8 @@ span {
     .about-box .about-info {
         display: flex;
         flex-direction: column;
-        margin-bottom: 
         text-align: justify;
-        max-height: 80px;
+        max-height: 100px;
         justify-content: center;
         align-items: baseline;
         padding: 1rem;
